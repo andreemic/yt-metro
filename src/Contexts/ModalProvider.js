@@ -30,6 +30,7 @@ const ModalProvider = ({ children }) => {
       }}
     >
       {children}
+      <img src={"images/airplane.png"}/>
     </ModalContext.Provider>
   );
 };

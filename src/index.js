@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
+import Popup from './Popup';
 
 ReactDOM.render(
   <>
-    <App />
+    <Popup />
   </>, document.getElementById('modal-window'));
 
 // If you want your app to work offline and load faster, you can change

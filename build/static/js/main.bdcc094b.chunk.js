@@ -1,0 +1,2 @@
+(window["webpackJsonpreact-chrome-extension-boilerplate"]=window["webpackJsonpreact-chrome-extension-boilerplate"]||[]).push([[0],{11:function(e,n,t){},14:function(e,n,t){"use strict";t.r(n);var a=t(0),r=t.n(a),o=t(2),c=t.n(o);t(11),t(16),t(4),t(5),r.a.createContext({});var l=function(){return r.a.createElement("div",null,"wassup")};c.a.render(r.a.createElement(r.a.Fragment,null,r.a.createElement(l,null)),document.getElementById("modal-window"))},6:function(e,n,t){e.exports=t(14)}},[[6,1,2]]]);
+//# sourceMappingURL=main.bdcc094b.chunk.js.map
